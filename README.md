@@ -1,2 +1,2 @@
-# duetduck
+# DUETDUCK
 
